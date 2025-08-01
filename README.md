@@ -51,8 +51,6 @@ Aku percaya, ML bukan tujuan akhir. Ini adalah bahasa baru — dan aku sedang be
 **Made with purpose by Blu**
 2025 — onwards
 
-```
-
 ---
 
 
