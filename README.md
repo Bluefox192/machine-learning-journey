@@ -37,6 +37,15 @@ Supaya kelak mudah konsisten dalam menulis modul dan eksperimen.
 - 🔜 Metrik evaluasi dan visualisasi
 - 🌟 Rencana: Simulasi model memristor untuk inference edge computing
 
+## 📊 Progress Belajar
+
+- [ ] Linear Regression from Scratch
+- [ ] Training loop dengan PyTorch
+- [ ] Modularisasi model dan dataset
+- [ ] Early stopping dan learning rate scheduler
+- [ ] Memristor model (simulasi)
+- [ ] Implementasi quantized/edge model
+
 ## 🛠️ Tools dan Teknologi
 
 - Python 3.10+
