@@ -64,6 +64,13 @@ Aku percaya, ML bukan tujuan akhir. Ini adalah bahasa baru — dan aku sedang be
 
 ---
 
+## 📚 Referensi
+
+- [The Deep Learning Book – Goodfellow et al.](https://www.deeplearningbook.org/)
+- [Dive into Deep Learning](https://d2l.ai)
+- PyTorch Tutorials: https://pytorch.org/tutorials
+- Makalah memristor (akan ditautkan)
+
 **Made with purpose by Blu**
 2025 — onwards
 
