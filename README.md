@@ -21,6 +21,13 @@ ml-journey/
 
 ````
 
+## 🧾 Konvensi Penamaan
+Supaya kelak mudah konsisten dalam menulis modul dan eksperimen.
+
+- `notebooks/` akan menggunakan format `01_nama_topik.ipynb`
+- `src/` akan mengikuti struktur modular: `models/`, `trainers/`, `utils/`
+- Setiap eksperimen akan didokumentasikan dengan ringkas di awal notebook
+
 ## 📘 Topik yang Dipelajari
 
 - ✅ Linear Regression dari nol
