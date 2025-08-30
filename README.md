@@ -40,7 +40,7 @@ Supaya kelak mudah konsisten dalam menulis modul dan eksperimen.
 ## 📊 Progress Belajar
 
 - [-] Linear Regression from Scratch
-- [ ] Training loop dengan PyTorch
+- [✓] Training loop dengan PyTorch
 - [ ] Modularisasi model dan dataset
 - [ ] Early stopping dan learning rate scheduler
 - [ ] Memristor model (simulasi)
